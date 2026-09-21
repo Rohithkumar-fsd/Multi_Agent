@@ -1,0 +1,27 @@
+BANKING FAQ
+
+Savings Account
+
+A savings account allows customers to deposit, store and withdraw money.
+The account balance can be viewed through the banking application.
+
+KYC
+
+KYC stands for Know Your Customer.
+Customers may be required to provide valid identity and address documents
+during the KYC process.
+
+Transaction History
+
+Customers can view transactions associated with their own accounts.
+Transaction information includes transaction amount, type, status and date.
+
+Account Security
+
+Customers must not share their passwords, PINs or authentication tokens
+with anyone.
+
+Account Support
+
+For account-related issues, customers can contact the bank's official
+support channel.
